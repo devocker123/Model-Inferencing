@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Ml-infer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5909B1C91AD546A9ADDF12FF4A9C8098 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21DDE5A5630F4124AAEF3E07E14F3F1B }}
